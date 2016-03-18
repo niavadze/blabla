@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tech News</title>
+	
+</head>
+<body>
+	<header>
+		<nav>
+			<ul>
+				<li>HOME</li>
+				<li>NEWS</li>
+				<li>ABOUT US</li>
+				<li>CONTACT</li>
+			</ul>
+		</nav>
+	</header>
+
+	<section id="banner">
+		<div class="banner-image">
+			<img src="images/banner.jpg">
+		</div>
+	</section>
+
+	<section id="news">
+		<h2>NEWS</h2>
+
+		<article>
+			<div class="newsimage1">
+				<img src="images/01_news.jpg">
+			</div>
+			<h1>Analytics Information</h1>
+		</article>
+				
+		<article>
+			<div class="newsimage2">
+				<img src="images/02_news.jpg">
+			</div>
+			<h1>Analytics Information</h1>
+		</article>
+
+		<article>
+			<div class="newsimage3">
+				<img src="images/03_news.jpg">
+			</div>
+			<h1>Analytics Information</h1>
+		</article>
+
+		<article>
+			<div class="newsimage4">
+				<img src="images/04_news.jpg">
+			</div>
+			<h1>Analytics Information</h1>
+		</article>
+
+	</section>
+
+	<section id="videos">
+		<h2>VIDEOS</h2>
+
+			<article id="article2">
+				<h1>EMBEDED YOUTUBE VIDEO GOES HERE</h1>
+			</article>
+
+			<article id="article2">
+				<h1>EMBEDED YOUTUBE VIDEO GOES HERE</h1>
+			</article>
+
+	</section>
+
+	<section id="featured">
+		<h2>FEATURED</h2>
+
+			<article>
+				<div class="featuredimage1">
+					<img src="images/02_featured.jpg">
+				</div>
+				<h1>Analytics Information</h1>
+			</article>
+
+			<article>
+				<div class="featuredimage2">
+					<img src="images/01_featured.jpg">
+				</div>
+				<h1>Analytics Information</h1>
+			</article>
+
+	</section>
+
+	<footer>
+		<nav>
+			<ul>
+				<li id="li2">2015 World Wide Web Foundation</li>
+				<li id="li2">created by: Pavle</li>				
+			</ul>
+		</nav>
+	</footer>
+</body>
+</html>
